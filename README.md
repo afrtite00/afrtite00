@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afrtite00
 
 
-- 🌱 I’m currently learning Dart and Flutter and json and working on a Flutter app (video platform)
+- 🌱 I’m currently learning Dart, Flutter and json , and I'm working on a Flutter app (video platform)
 
 
 - 📫 How to reach me my email: <afrtiteabdo12@gmail.com>
