@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @afrtite00
 
 
-- 🌱 I’m currently learning Dart, Flutter, and I'm working on a Flutter app (video platform)
+- 🌱 I’m currently learning Unity.
 
 
-- 📫 How to reach me my email: <afrtiteabdo12@gmail.com>
+- 📫 How to reach me my email: <animikantan@gmail.com>
 
 <!---
 afrtite00/afrtite00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
