@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @afrtite00
+- 👋 Hi, I’m @afrtite00 18
 
 
 - 🌱 I’m currently learning Unity.
+- open to Any colabs on any project in automation , game dev, we dev,or flutter
 
 
-- 📫 How to reach me my email: <animikantan@gmail.com>
+- 📫 reach me : <animikantan@gmail.com>
 
 <!---
 afrtite00/afrtite00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
