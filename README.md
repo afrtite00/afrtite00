@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Unity.
-- open to Any colabs on any project in automation , game dev, we dev,or flutter
+- open to Any colabs on any project in automation(python) , game dev, we dev,or flutter
 
 
 - 📫 reach me : <animikantan@gmail.com>
